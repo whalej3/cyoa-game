@@ -1,0 +1,8 @@
+# For colorful text
+colorama==0.4.6
+
+# For borders and a better visual outline
+rich==13.9.4
+
+# For text headers
+pyfiglet==1.0.2
